@@ -18,6 +18,13 @@
     color:#3E3E3E;
     padding: 10px;
 }
+.pakage-box{
+    height: 480px;
+    width: 232px;
+    margin-left: 25px;
+    margin-right: 10px;
+    border-radius:10px;
+}
 .pakage-btn{
     width: 200px;
     height: 44px;
@@ -26,5 +33,14 @@
     padding:5px;
     border-radius: 20px;
     border: none;
-
+}
+.pakage-box3{
+    background-color: #3f87f5;
+    border-radius: 10px;
+}
+footer{
+    background-color: #0b0d17;
+}
+footer p{
+    color: #d9dbe1;
 }
