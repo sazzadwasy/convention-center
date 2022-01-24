@@ -1,0 +1,30 @@
+
+/* ----slider---- */
+.slider-btn{
+    background: white;
+    width: 150px;
+    height: 44px;
+    margin: auto;
+    font-weight: bold;
+    margin-bottom: 5px;
+    padding-top: 8px;
+    border-radius: 5px;     
+}
+.slider-btn a{
+    text-decoration: none;
+    color: tomato;
+}
+.navbar-title{
+    color:#3E3E3E;
+    padding: 10px;
+}
+.pakage-btn{
+    width: 200px;
+    height: 44px;
+    color: #3f87f5;
+    font-weight: bold;
+    padding:5px;
+    border-radius: 20px;
+    border: none;
+
+}
