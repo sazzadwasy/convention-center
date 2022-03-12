@@ -1,5 +1,9 @@
 
 /* ----slider---- */
+#opt-btn{
+    padding: 10px 15px;
+    background-color: tomato;
+}
 .slider-btn{
     background: white;
     width: 150px;
